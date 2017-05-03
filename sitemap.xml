@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://hugo-arunreturns.c9users.io/2017/05/my-first-posting/</loc>
+    <lastmod>2017-05-03T09:48:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugo-arunreturns.c9users.io/archives/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugo-arunreturns.c9users.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugo-arunreturns.c9users.io/</loc>
+    <lastmod>2017-05-03T09:48:44+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugo-arunreturns.c9users.io/post/</loc>
+    <lastmod>2017-05-03T09:48:44+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugo-arunreturns.c9users.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
