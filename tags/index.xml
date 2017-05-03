@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Pineapples on Pizza</title>
-    <link>http://hugo-arunreturns.c9users.io/tags/</link>
+    <link>https://arunreturns.github.io/hugo-blog/tags/</link>
     <description>Recent content in Tags on Pineapples on Pizza</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://hugo-arunreturns.c9users.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://arunreturns.github.io/hugo-blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

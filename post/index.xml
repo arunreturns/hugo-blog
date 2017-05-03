@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Pineapples on Pizza</title>
-    <link>http://hugo-arunreturns.c9users.io/post/</link>
+    <link>https://arunreturns.github.io/hugo-blog/post/</link>
     <description>Recent content in Posts on Pineapples on Pizza</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 03 May 2017 09:48:44 +0000</lastBuildDate>
     
-	<atom:link href="http://hugo-arunreturns.c9users.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://arunreturns.github.io/hugo-blog/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post(ing)</title>
-      <link>http://hugo-arunreturns.c9users.io/2017/05/my-first-posting/</link>
+      <link>https://arunreturns.github.io/hugo-blog/2017/05/my-first-posting/</link>
       <pubDate>Wed, 03 May 2017 09:48:44 +0000</pubDate>
       
-      <guid>http://hugo-arunreturns.c9users.io/2017/05/my-first-posting/</guid>
+      <guid>https://arunreturns.github.io/hugo-blog/2017/05/my-first-posting/</guid>
       <description>Wait.! What is this? Starting off with writing the first post. And testing out how this goes. And add some more content here. .
 .
 .
